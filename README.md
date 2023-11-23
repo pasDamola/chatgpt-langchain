@@ -12,7 +12,7 @@ git clone https://github.com/pasDamola/chatgpt-langchain.git
 
 2. Get your OpenAI API key
 
-Go to the OpenAI [site](https://platform.openai.com/), Login or Sign up, then generate an API key
+   Go to the OpenAI [site](https://platform.openai.com/), Login or Sign up, then generate an API key
 
 3. Set up your environment variable by creating a _.env_ file and inputing the key, for example:
 
@@ -20,15 +20,15 @@ Go to the OpenAI [site](https://platform.openai.com/), Login or Sign up, then ge
 OPENAI_API_KEY=myopenailuckycharm
 ```
 
-3. Install the dependencies
+4. Install the dependencies
 
 ```
 pip install -r requirements.txt
 ```
 
-**At this point, you can go ahead and customize the PromptTemplate in the main.py file to whatever you want**
+**P.S: At this point, you can go ahead and customize the PromptTemplate in the main.py file to whatever you want**
 
-4. Run the application
+5. Run the application
 
 This can be done in 2 ways
 
