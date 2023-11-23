@@ -14,6 +14,12 @@ git clone https://github.com/pasDamola/chatgpt-langchain.git
 
 Go to the OpenAI [site](https://platform.openai.com/), Login or Sign up, then generate an API key
 
+3. Set up your environment variable by creating a _.env_ file and inputing the key, for example:
+
+```
+OPENAI_API_KEY=myopenailuckycharm
+```
+
 3. Install the dependencies
 
 ```
